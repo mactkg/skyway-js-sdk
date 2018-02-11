@@ -20,6 +20,7 @@
     "dist/skyway.js",
     "LICENSE",
     "CHANGELOG.md",
+    "src",
     "README.md"
   ],
   "author": "NTT Communications Corp.",
